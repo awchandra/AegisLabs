@@ -1,0 +1,6 @@
+{
+  "correctUsername": "green",
+  "correctPassword": "Password!123",
+  "incorrectUsername": "IncorrectUser",
+  "incorrectPassword": "password"
+}
